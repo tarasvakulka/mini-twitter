@@ -1,0 +1,6 @@
+.tweet-comment {
+    list-style: none;
+    text-align: left;
+    background-color: lightgray;
+    margin-bottom: 5px;
+}

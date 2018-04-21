@@ -1,0 +1,80 @@
+{
+  "users": [
+    {
+      "id": "f64f2940-fae4-11e7-8c5f-ef356f279131",
+      "username": "donaldtrump",
+      "first_name": "Donald",
+      "last_name": "Trump",
+      "avatar": "https://robohash.org/dolorumfugitoptio.jpg?size=150x150&set=set1",
+      "tweets": [
+        {
+          "id": "416ac246-e7ac-49ff-93b4-f7e94d997e6b",
+          "description": "A message from Kim Jong Un: North Korea will stop nuclear tests and launches of intercontinental ballistic missiles.",
+          "comments": [
+            {
+              "id": "9125a8dc-52ee-365b-a5aa-81b0b3681cf6",
+              "username": "lmashal1",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            },
+            {
+              "id": "c6235813-3ba4-3801-ae84-e0a6ebb7d138",
+              "username": "fbrannon",
+              "text": "Dolor sit amet, consectetur adipiscing elit."
+            }
+          ]
+        },
+        {
+          "id": "042ffd34-d989-321c-ad06-f60826172424",
+          "description": "James Comey illegally leaked classified documents to the press in order to generate a Special Council?",
+          "comments": [
+            {
+              "id": "a1035813-3bv4-3801-ae84-e0a6ebb7d179",
+              "username": "fbrannon",
+              "text": "Excepteur sint occaecat cupidatat non proident"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1b671a64-40d5-491e-99b0-da01ff1f3341",
+      "username": "lmashal1",
+      "first_name": "Lisha",
+      "last_name": "Mashal",
+      "avatar": "https://robohash.org/estetlaborum.jpg?size=150x150&set=set1",
+      "tweets": [
+        {
+          "id": "e8b5a51d-11c8-3310-a6ab-367563f20686",
+          "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+          "comments": [
+            {
+              "id": "fdda765f-fc57-5604-a269-52a7df8164ec",
+              "username": "donaldtrump",
+              "text": "Sit amet, consectetur adipiscing elit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3bbcee75-cecc-5b56-8031-b6641c1ed1f1",
+      "username": "fbrannon",
+      "first_name": "Fayette",
+      "last_name": "Brannon",
+      "avatar": "https://robohash.org/laboriosamsuntquasi.jpg?size=150x150&set=set1",
+      "tweets": [
+        {
+          "id": "630eb68f-e0fa-5ecc-887a-7c7a62614681",
+          "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "comments": [
+            {
+              "id": "710b962e-041c-11e1-9234-0123456789ab",
+              "username": "lmashal1",
+              "text": "Consectetur adipiscing elit."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
