@@ -18,7 +18,7 @@ class TweetList extends Component {
                         <div className="row justify-content-center mt-2">
                             <div className="input-group">
                                 <div className="input-group-prepend">
-                                    <span className="input-group-text">Write you tweet</span>
+                                    <span className="input-group-text">Write your tweet</span>
                                 </div>
                                 <textarea className="form-control"
                                           value={this.state.tweetMessage}
