@@ -3,11 +3,9 @@ import PropTypes from "prop-types";
 
 import './TweetComment.css';
 
-
 class TweetComment extends Component {
-
     render() {
-    let {username, text} = this.props;
+        let {username, text} = this.props;
         return (
             <li className="tweet-comment">
                 <span>Username: @{username}</span>
@@ -15,8 +13,6 @@ class TweetComment extends Component {
             </li>
         );
     }
-
-
 }
 
 TweetComment.propTypes = {

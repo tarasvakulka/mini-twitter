@@ -5,9 +5,7 @@ import uuid from 'uuid';
 import Tweet from '../Tweet/Tweet'
 import './TweetList.css';
 
-
 class TweetList extends Component {
-
     state = {
         tweetMessage: ''
     }
@@ -62,7 +60,6 @@ class TweetList extends Component {
         });
         return tweets;
     }
-
 }
 
 TweetList.propTypes = {

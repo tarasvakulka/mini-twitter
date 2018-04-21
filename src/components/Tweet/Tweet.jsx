@@ -9,8 +9,8 @@ import './Tweet.css';
 class Tweet extends Component {
     state = {
         isCommentModal: false,
-        commentText: '',
-        isCommentsVisible: false
+        isCommentsVisible: false,
+        commentText: ''
     }
 
     render() {
@@ -81,7 +81,6 @@ class Tweet extends Component {
             return null;
         }
     }
-
 }
 
 Tweet.propTypes = {
